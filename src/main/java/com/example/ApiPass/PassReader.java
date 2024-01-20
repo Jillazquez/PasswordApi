@@ -22,7 +22,7 @@ public class PassReader {
     @GetMapping("/getPass/{password}")
     public String isMyPassFiltered(@PathVariable("password") String pass) {
         ArrayList<String> contraseñas = getListFromResource();
-       return (contraseñas.contains(pass)) ? "Tu contraseña aparece en la lista cambia lo antes posible" : "Tu contraseña no aparece en la lista pero no te confies";
+       return (contraseñas.contains(pass)) ? "Password exists in the database" : "Password does not exists in the database";
     }
 
      private ArrayList<String> getListFromResource() {
