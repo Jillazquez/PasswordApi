@@ -49,7 +49,7 @@ This will start the server, and you can begin sending requests to the API.
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before making any changes.
+Contributions are welcome! Please read the [contributing guidelines](Contributing.md) before making any changes.
 
 ## License
 
