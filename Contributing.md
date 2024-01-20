@@ -6,8 +6,8 @@ We welcome contributions in the form of bug reports, feature requests, code impr
 
 ## How to Contribute
 
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
 
     ```bash
     git checkout -b feature/your-feature
