@@ -1,6 +1,6 @@
 # Password Check API
 
-> .[!NOTE].
+> [!NOTE]
 > This API is built using Spring Boot with Java and Maven. It provides a service to check if a given password exists in a database.
 
 ## Functionality
